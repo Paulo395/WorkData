@@ -1,0 +1,15 @@
+C:\Users\pauli\source\repos\WorkerData\WorkerData\bin\Debug\net6.0\WorkerData.exe
+C:\Users\pauli\source\repos\WorkerData\WorkerData\bin\Debug\net6.0\WorkerData.deps.json
+C:\Users\pauli\source\repos\WorkerData\WorkerData\bin\Debug\net6.0\WorkerData.runtimeconfig.json
+C:\Users\pauli\source\repos\WorkerData\WorkerData\bin\Debug\net6.0\WorkerData.dll
+C:\Users\pauli\source\repos\WorkerData\WorkerData\bin\Debug\net6.0\WorkerData.pdb
+C:\Users\pauli\source\repos\WorkerData\WorkerData\obj\Debug\net6.0\WorkerData.csproj.AssemblyReference.cache
+C:\Users\pauli\source\repos\WorkerData\WorkerData\obj\Debug\net6.0\WorkerData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\source\repos\WorkerData\WorkerData\obj\Debug\net6.0\WorkerData.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\WorkerData\WorkerData\obj\Debug\net6.0\WorkerData.AssemblyInfo.cs
+C:\Users\pauli\source\repos\WorkerData\WorkerData\obj\Debug\net6.0\WorkerData.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\WorkerData\WorkerData\obj\Debug\net6.0\WorkerData.dll
+C:\Users\pauli\source\repos\WorkerData\WorkerData\obj\Debug\net6.0\refint\WorkerData.dll
+C:\Users\pauli\source\repos\WorkerData\WorkerData\obj\Debug\net6.0\WorkerData.pdb
+C:\Users\pauli\source\repos\WorkerData\WorkerData\obj\Debug\net6.0\WorkerData.genruntimeconfig.cache
+C:\Users\pauli\source\repos\WorkerData\WorkerData\obj\Debug\net6.0\ref\WorkerData.dll
